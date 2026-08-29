@@ -251,10 +251,6 @@ This will run the application directly with Node.js.
 | nodemon | ^3.1.14 | Auto-restart on file changes |
 | prettier | 3.8.1 | Code formatting |
 
-## Author
-
-**Rajdeep Chowdhury**
-
 ## Learning Purpose
 
 This project is designed as an educational resource for learning backend API development with Node.js, Express, and MongoDB. It covers essential concepts including:
@@ -274,3 +270,7 @@ This project is designed as an educational resource for learning backend API dev
 - Database timestamps are automatically managed by Mongoose
 - Email verification and password reset tokens have configurable expiry times
 - The API supports cookie-based and header-based authentication
+
+## Author
+
+**Rajdeep Chowdhury**
